@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+![Add Items](https://user-images.githubusercontent.com/105675194/200024113-4d9956fe-ba50-4855-a496-5c5160a95267.png)
+
+![Menu Admin Dashboard](https://user-images.githubusercontent.com/105675194/200024121-fccc7fc9-e8e0-4276-8b2e-3c2a0eff8738.png)
+
+![Table Manager](https://user-images.githubusercontent.com/105675194/200024126-c919f5bd-66cd-4f54-8c80-9391adac37bc.png)
+
+![WalletPay Admin Dashboard Home](https://user-images.githubusercontent.com/105675194/200024131-a7643d15-1a1c-4a6c-b949-c48de730303d.png)
+
+![WalletPay Login Page](https://user-images.githubusercontent.com/105675194/200024132-325d330f-4cf9-48d2-b307-bf2b20f0189d.png)
